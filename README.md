@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Adler Eduardo, 22 anos, natural do Rio Grande do Sul. Concluí o ensino médio no CEM12 e atualmente curso Análise e Desenvolvimento de Sistemas na Estácio de Sà. Sou apaixonado por tecnologia e atualmente estou estudando programação com foco no desenvolvimento web.
+Me chamo Adler Eduardo, 22 anos, sou natural de Brasília. Concluí o ensino médio no CEM 12 e atualmente curso Análise e Desenvolvimento de Sistemas na Estácio de Sà. Sou apaixonado por tecnologia e atualmente estou estudando programação com foco no desenvolvimento web.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
