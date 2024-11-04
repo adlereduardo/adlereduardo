@@ -108,7 +108,7 @@ Me chamo Adler Eduardo, 22 anos, sou natural de Brasília. Concluí o ensino mé
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AdlerEduardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
